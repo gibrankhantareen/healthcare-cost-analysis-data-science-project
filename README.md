@@ -1,4 +1,4 @@
-#Healthcare Cost Analysis - Data Analysis Project
+# Healthcare Cost Analysis - Data Analysis Project
 
 This project has been done as part of my Six Week Summer Training for B.Tech CSE at Lovely Professional University. I had Six weeks to compltete the course along with the project in order to complete the training. I have been a keen enthusiast for Data Science and therefore I chose this project for my summer training. I have done it via 2 technologies, 1 using Excel Visualization and 1 using R programming. It was a great experience learning both of them
 
